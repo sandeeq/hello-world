@@ -1,3 +1,3 @@
 # hello-world
-sample and practice repository
+
 My name is Sandee. I live on the second floor...
